@@ -1,4 +1,4 @@
-FROM ico/jdk8:8u131
+FROM ico/jdk
 
 MAINTAINER iColabora
 
